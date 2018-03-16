@@ -1,0 +1,8 @@
+https://www.programoergosum.com/cursos-online/raspberry-pi/238-control-de-gpio-con-python-en-raspberry-pi/introduccion
+https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion
+https://www.aprendeprogramando.es/cursos-online/python/aprende-a-programar-en-python/introduccion
+https://www.programoergosum.com/cursos-online/raspberry-pi/244-iniciacion-a-python-en-raspberry-pi/hola-mundo
+https://www.luisllamas.es/controlar-arduino-con-python-y-la-libreria-pyserial/
+http://panamahitek.com/python-arduino-comunicacion-serial/
+https://www.todavianose.com/leer-el-puerto-serie-de-arduino-con-python-y-pyserial/
+https://polaridad.es/monitorizacion-ordenador-sensores-arduino-python/
